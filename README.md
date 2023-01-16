@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning bout it and I strongly believe that being tech literate will benefit everyone
 - 💞️ I’m looking to job opportunities and paid mentorship. 
 - 📫 How to reach me, liawjianwei@outlook.com & https://www.linkedin.com/in/liawjianwei/
-- 🌏 Tech for good 
+- 🌏 #techforgood
 
 <!---
 Jianwei07/Jianwei07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
