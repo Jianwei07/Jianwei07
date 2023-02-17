@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Jian Wei, @Jianwei07
-- 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning bout it and I strongly believe that being tech literate will benefit everyone
-- 💞️ I’m looking to job opportunities and paid mentorship. 
+- 👋 Hi, I’m Jian Wei
+- 👀 I’m interested in AI and ML in Fintech.
+- 💞️ I’m looking to job opportunities and paid mentorship to improve my skills
 - 📫 How to reach me, liawjianwei@outlook.com & https://www.linkedin.com/in/liawjianwei/
 - 🌏 #techforgood
 
