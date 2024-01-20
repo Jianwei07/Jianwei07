@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jianwei07" alt="jianwei07" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/jway77" target="blank"><img src="https://img.shields.io/twitter/follow/jway77?logo=twitter&style=for-the-badge" alt="jway77" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jwayy77" target="blank"><img src="https://img.shields.io/twitter/follow/jway77?logo=twitter&style=for-the-badge" alt="jway77" /></a> </p>
 
 - 👨‍💻 All of my projects and experiences are available at [https://jianwei07.github.io/jayden-portfolio/](https://jianwei07.github.io/jayden-portfolio/)
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jway77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jway77" height="30" width="40" /></a>
+<a href="https://twitter.com/jwayy77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jway77" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
