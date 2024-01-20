@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jayden Liaw</h1>
+<h1 align="center">Hi 👋, I'm Jayden Liaw Jian Wei</h1>
 <h3 align="center">Full-Stack Software Developer | Lean DevOps Enthusiast | Ethical Software Engineering Advocate</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jianwei07&label=Profile%20views&color=0e75b6&style=flat" alt="jianwei07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jianwei07" alt="jianwei07" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/jwayy77" target="blank"><img src="https://img.shields.io/twitter/follow/jway77?logo=twitter&style=for-the-badge" alt="jway77" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jwayy77" target="blank"><img src="https://img.shields.io/twitter/follow/jway77?logo=twitter&style=for-the-badge" alt="jwayy77" /></a> </p>
 
 - 👨‍💻 All of my projects and experiences are available at [https://jianwei07.github.io/jayden-portfolio/](https://jianwei07.github.io/jayden-portfolio/)
 
