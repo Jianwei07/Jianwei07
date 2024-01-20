@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayden Liaw</h1>
-<h3 align="center">ull-Stack Software Developer | Lean DevOps Enthusiast | Ethical Software Engineering Advocate</h3>
+<h3 align="center">Full-Stack Software Developer | Lean DevOps Enthusiast | Ethical Software Engineering Advocate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jianwei07&label=Profile%20views&color=0e75b6&style=flat" alt="jianwei07" /> </p>
 
