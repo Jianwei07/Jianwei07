@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayden Liaw Jian Wei</h1>
-<h3 align="center">Full-Stack Developer 🚀 | DevOps Enthusiast ⚙️ | Ethical Tech Advocate 🌍</h3>
+<h3 align="center">Full-Stack Developer 🚀 | Ethical Tech Advocate 🌍</h3>
 
 <p>I'm all about building scalable, effective software that drives results. Whether it's designing architecture or diving deep into purpose-driven projects, I love aligning tech with real-world goals.
 When I'm not coding, you'll find me catching up on the latest finance trends and investment news. It keeps me sharp and fuels my curiosity in everything from market shifts to tech innovations.
