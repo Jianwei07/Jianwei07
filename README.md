@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jayden Liaw Jian Wei</h1>
 <h3 align="center">Full-Stack Developer 🚀 | Ethical Tech Advocate 🌍</h3>
 
-<p>I'm all about building scalable, effective software that drives results. Whether it's designing architecture or diving deep into purpose-driven projects, I love aligning tech with real-world goals.
-When I'm not coding, you'll find me catching up on the latest finance trends and investment news. It keeps me sharp and fuels my curiosity in everything from market shifts to tech innovations.
-Always learning, always growing. 📚 </p>
-
+<pLove tinkering with latest tech stack, trying out new ideas.</p>
+<p>Always learning, always growing. 📚 </p>
 
 - 👨‍💻 All of my projects and experiences are available at [https://jianwei07.github.io/jayden-portfolio/](https://jianwei07.github.io/jayden-portfolio/)
 - My Freelancing platform, improving digital presence of SMEs and freelancerse at [https://www.tectoniclabs.co/](https://www.tectoniclabs.co/)
