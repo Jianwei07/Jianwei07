@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayden Liaw Jian Wei</h1>
 <h3 align="center">Full-Stack Developer 🚀 | Ethical Tech Advocate 🌍</h3>
 
-<pLove tinkering with latest tech stack, trying out new ideas.</p>
+<p>Love tinkering with latest tech stack, trying out new ideas. </p>
 <p>Always learning, always growing. 📚 </p>
 
 - 👨‍💻 All of my projects and experiences are available at [https://jianwei07.github.io/jayden-portfolio/](https://jianwei07.github.io/jayden-portfolio/)
