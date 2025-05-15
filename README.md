@@ -5,7 +5,7 @@
 <p>Always learning, always growing. 📚 </p>
 
 - 👨‍💻 All of my projects and experiences are available at [https://jianwei07.github.io/jayden-portfolio/](https://jayden-portfolio-v2.vercel.app/)
-- My Freelancing platform, improving digital presence of SMEs and freelancerse at [https://www.tectoniclabs.co/](https://www.tectoniclabs.co/)
+- My Freelancing platform, improving digital presence of SMEs at [https://www.tectoniclabs.co/](https://www.tectoniclabs.co/)
 - 📫 How to reach me **liawjianwei@outlook.com** or **jayden@tectoniclabs.co**
 
 <!--<h3 align="left">Languages and Tools:</h3>
