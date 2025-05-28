@@ -9,7 +9,6 @@
 - 📫 How to reach me **liawjianwei@outlook.com** , **https://www.linkedin.com/in/liawjianwei/**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jianwei07&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jianwei07&layout=compact)
 
 
 <!--<h3 align="left">Languages and Tools:</h3>
