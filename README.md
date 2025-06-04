@@ -23,11 +23,11 @@
 
 <div align="center">
 
-[![RAG-Health-Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Jianwei07&repo=better-everyday-v3&theme=tokyonight&border_color=61dafb&border_radius=10)](https://github.com/Jianwei07/better-everyday-v3)
-[![CoCreate](https://github-readme-stats.vercel.app/api/pin/?username=Jianwei07&repo=cocreate.io&theme=tokyonight&border_color=61dafb&border_radius=10)](https://github.com/Jianwei07/cocreate.io)
+[![RAG-Health-Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Jianwei07&repo=better-everyday-v3&theme=tokyonight&border_color=61dafb&border_radius=10&cache_seconds=86400)](https://github.com/Jianwei07/better-everyday-v3)
+[![CoCreate](https://github-readme-stats.vercel.app/api/pin/?username=Jianwei07&repo=cocreate.io&theme=tokyonight&border_color=61dafb&border_radius=10&cache_seconds=86400)](https://github.com/Jianwei07/cocreate.io)
 
-[![AI-Code-Reviewer](https://github-readme-stats.vercel.app/api/pin/?username=Jway77-ai&repo=PR-AI-Code-Reviewer&theme=tokyonight&border_color=61dafb&border_radius=10)](https://github.com/Jway77-ai/PR-AI-Code-Reviewer)
-[![Personal-Website-V2](https://github-readme-stats.vercel.app/api/pin/?username=Jianwei07&repo=portfolio-v2&theme=tokyonight&border_color=61dafb&border_radius=10)](https://github.com/Jianwei07/portfolio-v2)
+[![AI-Code-Reviewer](https://github-readme-stats.vercel.app/api/pin/?username=Jway77-ai&repo=PR-AI-Code-Reviewer&theme=tokyonight&border_color=61dafb&border_radius=10&cache_seconds=86400)](https://github.com/Jway77-ai/PR-AI-Code-Reviewer)
+[![Personal-Website-V2](https://github-readme-stats.vercel.app/api/pin/?username=Jianwei07&repo=portfolio-v2&theme=tokyonight&border_color=61dafb&border_radius=10&cache_seconds=86400)](https://github.com/Jianwei07/portfolio-v2)
 
 </div>
 
