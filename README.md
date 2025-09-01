@@ -1,7 +1,7 @@
 # Hi 👋, I'm Jayden Liaw Jian Wei
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Ethical+Tech+Advocate+%F0%9F%8C%8D;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Always+Learning%2C+Always+Growing+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Data+Scientist+%F0%9F%8C%8D;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Always+Learning%2C+Always+Growing+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 <p align="center">
