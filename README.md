@@ -5,14 +5,8 @@
 </picture>
 
 <div align="center">
-
-```
- ╔══════════════════════════════════════════════════════════════╗
- ║  I design and build AI systems that solve real problems.    ║
- ║  From RAG pipelines to production ML — shipping things      ║
- ║  that actually work.                                        ║
- ╚══════════════════════════════════════════════════════════════╝
-```
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Data+Scientist+%F0%9F%8C%8D;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Always+Learning%2C+Always+Growing+%F0%9F%93%9A" alt="Typing SVG" />
+</div>
 
 [![Portfolio](https://img.shields.io/badge/jayden--portfolio-000?style=flat&logo=vercel&logoColor=white)](https://jayden-portfolio-v2.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/liawjianwei-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liawjianwei/)
@@ -75,24 +69,41 @@ Currently exploring **agentic workflows**, **multimodal AI**, and making LLMs ge
 
 ### `$ cat stack.yml`
 
-```yaml
-ai_and_ml:
-  models:        [ LLMs, RAG, Fine-tuning, Embeddings ]
-  frameworks:    [ LangChain, HuggingFace, PyTorch, OpenAI API ]
-  infra:         [ Vector DBs, GROQ, Model Serving ]
+<div align="center">
 
-languages:
-  primary:       [ Python, TypeScript ]
-  secondary:     [ JavaScript, Java ]
+#### 🤖 AI & Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B3FA0?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-4A154B?style=for-the-badge&logo=pinecone&logoColor=white)
+![GROQ](https://img.shields.io/badge/GROQ-F55036?style=for-the-badge&logoColor=white)
 
-web:
-  frontend:      [ React, Next.js, Tailwind CSS, Shadcn UI ]
-  backend:       [ Node.js, FastAPI ]
-  databases:     [ PostgreSQL, MongoDB, Supabase ]
+#### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-devops:
-  tools:         [ Docker, Git, Vercel, CI/CD ]
-```
+#### 🌐 Full-Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+#### 🗄️ Data & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
 
 ---
 
@@ -107,12 +118,46 @@ devops:
 
 ---
 
+### `$ gh stats`
+
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Jianwei07&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Jianwei07&theme=github-dark-blue&hide_border=true&background=00000000&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jianwei07&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jianwei07&exclude_repo=Simplify-app,Foodu,Jayden-Personal-Blog,york-city,udemy-cv-practice,ticket-app,flutter-complete-guide-course-resources,aiap13-liaw-jian-wei,york-city,aifo-fdn-v1&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e"/>
 
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jianwei07&theme=github-dark-blue&hide_border=true&background=00000000&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=58a6ff&sideNums=58a6ff" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jianwei07&theme=github-dark&hide_border=true&bg_color=00000000&color=8b949e&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff" width="95%" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+[![RAG-Health-Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Jianwei07&repo=better-everyday-v3&theme=github_dark&hide_border=true&bg_color=00000000&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e)](https://github.com/Jianwei07/better-everyday-v3)
+&nbsp;
+[![AI-Code-Reviewer](https://github-readme-stats.vercel.app/api/pin/?username=Jway77-ai&repo=PR-AI-Code-Reviewer&theme=github_dark&hide_border=true&bg_color=00000000&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e)](https://github.com/Jway77-ai/PR-AI-Code-Reviewer)
+
+[![CoCreate](https://github-readme-stats.vercel.app/api/pin/?username=Jianwei07&repo=cocreate.io&theme=github_dark&hide_border=true&bg_color=00000000&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e)](https://github.com/Jianwei07/cocreate.io)
+&nbsp;
+[![Portfolio-V2](https://github-readme-stats.vercel.app/api/pin/?username=Jianwei07&repo=portfolio-v2&theme=github_dark&hide_border=true&bg_color=00000000&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e)](https://github.com/Jianwei07/portfolio-v2)
+
+</div>
+
+---
+
+### `$ gh trophy`
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jianwei07&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies"/>
 </div>
 
 ---
