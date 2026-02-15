@@ -122,20 +122,10 @@ Currently exploring **agentic workflows**, **multimodal AI**, and making LLMs ge
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jianwei07&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jianwei07&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&rank_icon=github"/>
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jianwei07&exclude_repo=Simplify-app,Foodu,Jayden-Personal-Blog,york-city,udemy-cv-practice,ticket-app,flutter-complete-guide-course-resources,aiap13-liaw-jian-wei,york-city,aifo-fdn-v1&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jianwei07&exclude_repo=Simplify-app,Foodu,Jayden-Personal-Blog,york-city,udemy-cv-practice,ticket-app,flutter-complete-guide-course-resources,aiap13-liaw-jian-wei,york-city,aifo-fdn-v1&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
 
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jianwei07&theme=github-dark-blue&hide_border=true&background=00000000&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=58a6ff&sideNums=58a6ff" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jianwei07&theme=github-dark&hide_border=true&bg_color=00000000&color=8b949e&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff" width="95%" alt="Contribution Graph"/>
 </div>
 
 <br/>
