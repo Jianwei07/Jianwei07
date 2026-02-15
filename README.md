@@ -16,7 +16,7 @@
 
 ---
 
-### `$ whoami`
+### About Me
 
 AI Engineer focused on building **production-grade intelligent systems**. I work across the full stack — from training and fine-tuning models, to building RAG pipelines, to deploying them as polished applications people actually use.
 
@@ -24,7 +24,7 @@ Currently exploring **agentic workflows**, **multimodal AI**, and making LLMs ge
 
 ---
 
-### `$ cat projects.md`
+### Projects
 
 <table>
 <tr>
@@ -67,7 +67,7 @@ Currently exploring **agentic workflows**, **multimodal AI**, and making LLMs ge
 
 ---
 
-### `$ cat stack.yml`
+### Tech Stack
 
 <div align="center">
 
@@ -107,7 +107,7 @@ Currently exploring **agentic workflows**, **multimodal AI**, and making LLMs ge
 
 ---
 
-### `$ git log --oneline`
+### Journey
 
 ```
 📍 NOW     → Building AI-powered solutions in production
@@ -118,7 +118,7 @@ Currently exploring **agentic workflows**, **multimodal AI**, and making LLMs ge
 
 ---
 
-### `$ gh stats`
+### GitHub Stats
 
 <div align="center">
 
@@ -154,7 +154,7 @@ Currently exploring **agentic workflows**, **multimodal AI**, and making LLMs ge
 
 ---
 
-### `$ gh trophy`
+### Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jianwei07&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies"/>
