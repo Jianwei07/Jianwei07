@@ -53,7 +53,7 @@ Currently exploring **agentic workflows**, **multimodal AI**, and making LLMs ge
 
 `Next.js` `Supabase` `AI/ML` `Real-time`
 
-</td>
+<!-- </td>
 <td width="50%">
 
 **🌐 Portfolio V2** &nbsp; [![Repo](https://img.shields.io/badge/-Code-181717?style=flat&logo=github)](https://github.com/Jianwei07/portfolio-v2)
@@ -61,7 +61,7 @@ Currently exploring **agentic workflows**, **multimodal AI**, and making LLMs ge
 
 `Next.js` `Shadcn UI` `Notion API` `Vercel`
 
-</td>
+</td> -->
 </tr>
 </table>
 
