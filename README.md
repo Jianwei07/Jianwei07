@@ -8,6 +8,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Data+Scientist+%F0%9F%8C%8D;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Always+Learning%2C+Always+Growing+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
+<div align="center">
+
 [![Portfolio](https://img.shields.io/badge/jayden--portfolio-000?style=flat&logo=vercel&logoColor=white)](https://jayden-portfolio-v2.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/liawjianwei-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liawjianwei/)
 [![Email](https://img.shields.io/badge/liawjianwei@outlook.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:liawjianwei@outlook.com)
@@ -53,7 +55,7 @@ Currently exploring **agentic workflows**, **multimodal AI**, and making LLMs ge
 
 `Next.js` `Supabase` `AI/ML` `Real-time`
 
-<!-- </td>
+</td>
 <td width="50%">
 
 **🌐 Portfolio V2** &nbsp; [![Repo](https://img.shields.io/badge/-Code-181717?style=flat&logo=github)](https://github.com/Jianwei07/portfolio-v2)
@@ -61,7 +63,7 @@ Currently exploring **agentic workflows**, **multimodal AI**, and making LLMs ge
 
 `Next.js` `Shadcn UI` `Notion API` `Vercel`
 
-</td> -->
+</td>
 </tr>
 </table>
 
@@ -122,32 +124,14 @@ Currently exploring **agentic workflows**, **multimodal AI**, and making LLMs ge
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jianwei07&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jianwei07&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&rank_icon=github"/>
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jianwei07&exclude_repo=Simplify-app,Foodu,Jayden-Personal-Blog,york-city,udemy-cv-practice,ticket-app,flutter-complete-guide-course-resources,aiap13-liaw-jian-wei,york-city,aifo-fdn-v1&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jianwei07&exclude_repo=Simplify-app,Foodu,Jayden-Personal-Blog,york-city,udemy-cv-practice,ticket-app,flutter-complete-guide-course-resources,aiap13-liaw-jian-wei,york-city,aifo-fdn-v1&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=Jianwei07&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 
-<div align="center">
-
-[![RAG-Health-Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Jianwei07&repo=better-everyday-v3&theme=github_dark&hide_border=true&bg_color=00000000&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e)](https://github.com/Jianwei07/better-everyday-v3)
-&nbsp;
-[![AI-Code-Reviewer](https://github-readme-stats.vercel.app/api/pin/?username=Jway77-ai&repo=PR-AI-Code-Reviewer&theme=github_dark&hide_border=true&bg_color=00000000&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e)](https://github.com/Jway77-ai/PR-AI-Code-Reviewer)
-
-[![CoCreate](https://github-readme-stats.vercel.app/api/pin/?username=Jianwei07&repo=cocreate.io&theme=github_dark&hide_border=true&bg_color=00000000&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e)](https://github.com/Jianwei07/cocreate.io)
-&nbsp;
-[![Portfolio-V2](https://github-readme-stats.vercel.app/api/pin/?username=Jianwei07&repo=portfolio-v2&theme=github_dark&hide_border=true&bg_color=00000000&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e)](https://github.com/Jianwei07/portfolio-v2)
-
-</div>
-
----
-
-### Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jianwei07&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies"/>
 </div>
 
 ---
