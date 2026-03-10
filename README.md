@@ -100,7 +100,8 @@ Personal site built with Next.js and Notion CMS integration — dynamic content,
 ### Journey
 
 ```
-📍 NOW     → Building AI-powered solutions in production
+📚 Acad    → Masters in Computing, CS @ NUS 
+📍 NOW     → Building AI-powered solutions in production @ Kyndryl 
 🏆 2024    → UOB GBT Hackathon 1st Runner Up
 🔬 Ongoing → Applied AI research & open source contributions
 🎯 Next    → Agentic systems, multimodal AI, scaling AI for SMEs
