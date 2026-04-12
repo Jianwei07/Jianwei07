@@ -26,9 +26,7 @@
 
 AI Engineer focused on building **production-grade intelligent systems** — from fine-tuning models and designing RAG pipelines, to shipping them as polished full-stack applications.
 
-Currently exploring **agentic workflows**, **multimodal AI**, and scaling LLMs for enterprise use cases.
-
----
+Currently exploring **agentic workflows**, context rot management and agents delegation using opencode CLI.
 
 ### Projects
 
