@@ -38,7 +38,7 @@ Currently exploring **agentic workflows**, context rot management and agents del
 
 NUS MarketPlace is a AI-powered marketplace for students to buy and sell campus essentials securely. Its standout feature is an AI vision model powered by local llava:7b, which turns uploaded item photos into ready-to-use listing details such as title, description, category, condition, and price, making selling faster, smarter, and privacy-friendly.
 
-`RAG` `LangChain` `Vector DB` `Next.js`
+`Next.js` `GraphQL` `HuggingFace` `Llava:7b`
 
 </td>
 <td width="50%">
@@ -61,15 +61,7 @@ AI-powered social media content optimizer with real-time feedback and platform-s
 `Next.js` `Supabase` `AI/ML` `Real-time`
 
 </td>
-<td width="50%">
 
-**🌐 Portfolio V2** &nbsp; [![Repo](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/Jianwei07/portfolio-v2)
-
-Personal site built with Next.js and Notion CMS integration — dynamic content, zero code deployments.
-
-`Next.js` `Shadcn UI` `Notion API` `Vercel`
-
-</td>
 </tr>
 </table>
 
