@@ -34,7 +34,7 @@ Currently exploring **agentic workflows**, context rot management and agents del
 <tr>
 <td width="50%">
 
-**🧠 NUS MarketPlace* &nbsp; [![Repo](https://github.com/Jianwei07/campus-cart-nus)]
+**🧠 NUS MarketPlace** &nbsp; [![Repo](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/Jianwei07/campus-cart-nus)
 
 NUS MarketPlace is a AI-powered marketplace for students to buy and sell campus essentials securely. Its standout feature is an AI vision model powered by local llava:7b, which turns uploaded item photos into ready-to-use listing details such as title, description, category, condition, and price, making selling faster, smarter, and privacy-friendly.
 
