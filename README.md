@@ -34,9 +34,9 @@ Currently exploring **agentic workflows**, context rot management and agents del
 <tr>
 <td width="50%">
 
-**🧠 RAG Health Chatbot** &nbsp; [![Repo](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/Jianwei07/better-everyday-v3)
+**🧠 NUS MarketPlace* &nbsp; [![Repo](https://github.com/Jianwei07/campus-cart-nus)
 
-AI health assistant using RAG to extract expert advice from health podcasts. Covers neurology, fitness, and wellness with source-grounded responses.
+NUS MarketPlace is a AI-powered full-stack NUS-only marketplace for students to buy and sell campus essentials securely. Its standout feature is an AI vision model powered by local llava:7b, which turns uploaded item photos into ready-to-use listing details such as title, description, category, condition, and price, making selling faster, smarter, and privacy-friendly.
 
 `RAG` `LangChain` `Vector DB` `Next.js`
 
