@@ -87,36 +87,6 @@ AI-powered social media content optimizer with real-time feedback and platform-s
 
 ---
 
-### Journey
-
-```
-📚 Acad    → Masters in Computing, CS @ NUS 
-📍 NOW     → Building AI-powered solutions in production @ Kyndryl 
-🏆 2024    → UOB GBT Hackathon 1st Runner Up
-🔬 Ongoing → Applied AI research & open source contributions
-🎯 Next    → Agentic systems, multimodal AI, scaling AI for SMEs
-```
-
----
-
-### GitHub Activity
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jianwei07&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9)](https://git.io/streak-stats)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jianwei07&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1c2a3a)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 <div align="center">
 <sub>Open to collaborations on AI/ML projects and interesting engineering challenges.</sub>
 <br/>
