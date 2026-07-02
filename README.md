@@ -2,14 +2,14 @@
 
 ## Jayden Liaw
 
-*AI Engineer in Singapore. Always building and shipping.*
+*AI Engineer in Singapore. Always building and shipping, looking to contribute to open sourced projects*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://jayden-portfolio-v2.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liawjianwei/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:liawjianwei@outlook.com)
 
-Working on - AI Harness & AI-Centric Products for Humanity
-Learning - Inference · Kernels · Deep Neural Nets · RL for Deep Net
+Working on: AI Harness & AI-Centric Products for Humanity
+Learning: AI Inference & Kernels, Deep Neural Nets & RL for Deep Net
 
 ---
 
