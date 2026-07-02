@@ -9,6 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:liawjianwei@outlook.com)
 
 Working on: AI Harness & AI-Centric Products for Humanity
+
 Learning: AI Inference & Kernels, Deep Neural Nets & RL for Deep Net
 
 ---
