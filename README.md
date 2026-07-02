@@ -6,7 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liawjianwei/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:liawjianwei@outlook.com)
 
-Inference · Kernels · Deep Neural Nets · AI Harness · AI-Centric Products for Humanity
+Working on - AI Harness & AI-Centric Products for Humanity
+Learning - Inference · Kernels · Deep Neural Nets · RL for Deep Net
 
 ---
 
